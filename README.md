@@ -25,7 +25,7 @@ Chapter Outline to solve.
 
 ### Starting Out With Python 
 Chapter Outline to solve.
-- [x] Chapter 2 Input, Processing and Output
+- [ ] Chapter 2 Input, Processing and Output
 - [ ] Chapter 3 Decision Structures and Boolean Logic
 - [ ] Chapter 4 Repetition Structures
 - [ ] Chapter 5 Functions
@@ -36,8 +36,7 @@ Chapter Outline to solve.
 - [ ] Chapter 10 Classes and Object-Oriented Programming
 - [ ] Chapter 11 Inheritance
 - [ ] Chapter 12 Recursion
-- [ ] Chapter 13 Files and Exception Handling
-- [ ] Chapter 14 Tuples, Sets and Dictionaries
-- [ ] Chapter 15 Recursion
+- [ ] Chapter 13 GUI Programming
+
 
 ## License
