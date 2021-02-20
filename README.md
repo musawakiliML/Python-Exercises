@@ -8,7 +8,7 @@ This will help you compare your solutions to see if your code runs as expected.
 
 ### Introduction To Programming Using Python 
 Chapter Outline to solve.
-- [ ] Chapter 2 Elementary Programming
+- [x] Chapter 2 Elementary Programming
 - [ ] Chapter 3 Mathematical Functions, Strings, and Objects
 - [ ] Chapter 4 Selections
 - [ ] Chapter 5 Loops
