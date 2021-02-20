@@ -28,9 +28,9 @@ Chapter Outline to solve.
 - [x] Chapter 2 Input, Processing and Output
 - [ ] Chapter 3 Decision Structures and Boolean Logic
 - [ ] Chapter 4 Repetition Structures
-- [ ] Chapter 5 Loops
-- [ ] Chapter 6 Functions
-- [ ] Chapter 7 Objects and Classes
+- [ ] Chapter 5 Functions
+- [ ] Chapter 6 Files and Exceptions
+- [ ] Chapter 7 Lists and Tuples
 - [ ] Chapter 8 More On Strings and Special Methods
 - [ ] Chapter 9 GUI Programming Using Tkinter
 - [ ] Chapter 10 Lists
@@ -39,3 +39,5 @@ Chapter Outline to solve.
 - [ ] Chapter 13 Files and Exception Handling
 - [ ] Chapter 14 Tuples, Sets and Dictionaries
 - [ ] Chapter 15 Recursion
+
+## License
