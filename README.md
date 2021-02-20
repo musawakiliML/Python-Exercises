@@ -31,11 +31,11 @@ Chapter Outline to solve.
 - [ ] Chapter 5 Functions
 - [ ] Chapter 6 Files and Exceptions
 - [ ] Chapter 7 Lists and Tuples
-- [ ] Chapter 8 More On Strings and Special Methods
-- [ ] Chapter 9 GUI Programming Using Tkinter
-- [ ] Chapter 10 Lists
-- [ ] Chapter 11 Multidimensional Lists
-- [ ] Chapter 12 Inheritance and Polymorphism
+- [ ] Chapter 8 More About Strings
+- [ ] Chapter 9 Dictionaries and Sets
+- [ ] Chapter 10 Classes and Object-Oriented Programming
+- [ ] Chapter 11 Inheritance
+- [ ] Chapter 12 Recursion
 - [ ] Chapter 13 Files and Exception Handling
 - [ ] Chapter 14 Tuples, Sets and Dictionaries
 - [ ] Chapter 15 Recursion
