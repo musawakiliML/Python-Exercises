@@ -22,3 +22,21 @@ Chapter Outline to solve.
 - [ ] Chapter 13 Files and Exception Handling
 - [ ] Chapter 14 Tuples, Sets and Dictionaries
 - [ ] Chapter 15 Recursion
+
+### Starting Out With Python 
+Chapter Outline to solve.
+- [ ] Chapter 2 Input, Processing and Output
+- [ ] Chapter 3 Decision Structures and Boolean Logic
+- [ ] Chapter 4 Repetition Structures
+- [ ] Chapter 5 Functions
+- [ ] Chapter 6 Files and Exceptions
+- [ ] Chapter 7 Lists and Tuples
+- [ ] Chapter 8 More About Strings
+- [ ] Chapter 9 Dictionaries and Sets
+- [ ] Chapter 10 Classes and Object-Oriented Programming
+- [ ] Chapter 11 Inheritance
+- [ ] Chapter 12 Recursion
+- [ ] Chapter 13 GUI Programming
+
+
+## License
