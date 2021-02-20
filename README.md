@@ -26,8 +26,8 @@ Chapter Outline to solve.
 ### Starting Out With Python 
 Chapter Outline to solve.
 - [x] Chapter 2 Input, Processing and Output
-- [ ] Chapter 3 Mathematical Functions, Strings, and Objects
-- [ ] Chapter 4 Selections
+- [ ] Chapter 3 Decision Structures and Boolean Logic
+- [ ] Chapter 4 Repetition Structures
 - [ ] Chapter 5 Loops
 - [ ] Chapter 6 Functions
 - [ ] Chapter 7 Objects and Classes
