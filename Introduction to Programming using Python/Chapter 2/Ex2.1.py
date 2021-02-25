@@ -12,5 +12,5 @@ celsius = input("Enter Degree in Celsius:")
 # Computes the value of fahrenheit
 fahrenheit = (9 / 5) * int(celsius) + 32
 
-#Displays the result
+# Displays the result
 print("{} Celsius is {} Fahrenheit".format(celsius, fahrenheit))
