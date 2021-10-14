@@ -31,6 +31,7 @@ remaining_amount = remaining_amount % 5
 #find the number of pennies in the remaining amount
 number_of_pennies = remaining_amount
 
+#displaying result
 print(f"Your Amount {amount} Consists of:\n")
 
 if number_of_one_dollars != 0:
@@ -58,11 +59,3 @@ if number_of_pennies != 0:
         print(f"\t {number_of_pennies} Pennies\n")
     else:
         print(f"\t {number_of_pennies} Penny\n")
-
-#displaying result
-#print(f"Your Amount {amount} consist of:\n \
- #       \t {number_of_one_dollars} dollars\n \
- #       \t {number_of_quaters} quaters\n \
- #       \t {number_of_dimes} dimes\n \
- #       \t {number_of_nickels} nickels\n \
- #       \t {number_of_pennies} pennies")
