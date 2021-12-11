@@ -14,4 +14,4 @@ question = input(f"What is {num_1} * {num_2}?")
 if question == num_1 * num_2:
     print("Correct Answer!")
 else:
-    print("Wrong Answer!")
+    print("Wrong Answer! \n", "Correct Answer:",num_1*num_2)
